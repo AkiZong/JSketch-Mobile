@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_892ee6dbc154f4fb332bd163bf27a3db35b7b77f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="32ab920d18e09640bf79e3f0e8162f20a782f064">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_938d04cc6e840f6a14134f6376a52f7190147a24/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_300e49cf8f72938c0fa8ec1f0713cdbede277ec0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7fce91f33ef3a37b9c301c6fed67811387532dfd">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a2aeda1b1bf28adae07d3282e91e0f47898a5148/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_2cc3ccf5c7d3a95b9b69b3f3cc939c5c0bbfffb1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_06b845112663e39a0406c78b6ad7460ba072117a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_4cf863087e44d3d234289e36f298709e61ae90b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_0415527d43f194870ba26c5987886e38e4bc6412/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_343c28e082f593de239b04d3a31c75f8ca9866c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/A32/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/Aki/Desktop/A32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_92dc0c8bf544bb2cd1307e86843eb5baf6524e07/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="example.com.a3.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:id="@+id/navigation"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="8"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/selector"
+                android:id="@+id/selector"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/eraser"
+                android:id="@+id/eraser"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/square"
+                android:id="@+id/square"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/circle"
+                android:id="@+id/circle"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/line"
+                android:id="@+id/line"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/fill"
+                android:id="@+id/fill"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/red"
+                android:id="@+id/red"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/green"
+                android:id="@+id/green"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/blue"
+                android:id="@+id/blue"/>
+
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="32dp"
+                android:background="@drawable/undo"
+                android:id="@+id/undo" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:layout_width="14dp"
+                    android:layout_height="32dp"
+                    android:background="@drawable/thickone"
+                    android:id="@+id/thickone"/>
+
+                <Button
+                    android:layout_width="14dp"
+                    android:layout_height="32dp"
+                    android:background="@drawable/thicktwo"
+                    android:id="@+id/thicktwo"/>
+
+                <Button
+                    android:layout_width="14dp"
+                    android:layout_height="32dp"
+                    android:background="@drawable/thickthree"
+                    android:id="@+id/thickthree"/>
+
+                <Button
+                    android:layout_width="14dp"
+                    android:layout_height="32dp"
+                    android:background="@drawable/thickfour"
+                    android:id="@+id/thickfour"/>
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="3dp"
+            android:layout_height="match_parent"
+            android:background="@android:color/black"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/mycanvas"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <example.com.a3.DrawCanvas
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/myview">
+        </example.com.a3.DrawCanvas>
+
+    </LinearLayout>
+
+</LinearLayout>
